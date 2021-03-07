@@ -83,3 +83,6 @@ gen
 
 #Folder Result
 Games/
+
+#DS_Store
+.DS_Store/
